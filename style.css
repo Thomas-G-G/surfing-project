@@ -1,0 +1,12 @@
+.jumbotron {
+  height: 600px;
+  background-image: url(img/surfing2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: cover;
+  
+}
+
+.card-text {
+  text-align: left;
+}
